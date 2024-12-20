@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Tài xỉu online - Trò Chơi Cá Cược Đỉnh Cao Thời Đại Mới
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Tài xỉu online <https://taixiuonline.ad/>`_ Trò Chơi Cá Cược Đỉnh Cao Thời Đại Mới
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Tài Xỉu online là trò chơi đổi thưởng hấp dẫn, sử dụng ba viên xí ngầu để xác định kết quả. Với luật chơi đơn giản và các cửa cược như tài-xỉu, chẵn-lẻ, trò chơi này phù hợp cho cả người mới lẫn cao thủ.
 
-.. note::
+Để tăng tỷ lệ thắng, hãy ghi nhớ kết quả, phân tích xu hướng và chọn bàn chơi phù hợp. Trải nghiệm ngay các app Tài Xỉu online uy tín để vừa giải trí, vừa có cơ hội thắng lớn trong năm 2024!
 
-   This project is under active development.
+Thông tin liên hệ:
 
-Contents
---------
+Địa chỉ: 74 Lý Thường Kiệt, Phường 9, Tân Bình, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Phone: 0998212315
 
-   usage
-   api
+Website: https://taixiuonline.ad/
+
+Hashtag: #tài_xỉu #tài_xỉu_online
